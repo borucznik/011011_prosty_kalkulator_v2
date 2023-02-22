@@ -11,6 +11,7 @@ def dodaj():
     print(zmienna1)
     print(zmienna2)
     print(wynik)
+    #test
 
 
 
